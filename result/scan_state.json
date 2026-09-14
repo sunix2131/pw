@@ -1,0 +1,11 @@
+{
+  "wallet": "0x46b353667fd7d846af3bbeda6584b0e5b883d3de",
+  "snapshot": 93764419,
+  "start": 4023686,
+  "outgoing_next": 93764420,
+  "incoming_next": 93764420,
+  "outgoing_count": 40927,
+  "incoming_count": 1253728,
+  "outgoing_done": true,
+  "incoming_done": true
+}
